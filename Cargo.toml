@@ -1,0 +1,3 @@
+[workspace]
+members = [ "learn-tokio","socket-server"]
+resolver = "2"
